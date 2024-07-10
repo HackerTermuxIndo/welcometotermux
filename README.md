@@ -6,7 +6,7 @@ Step By Stepnya
 
 3.cd
 
-4.kalo mau isi nama dan dll sahkan ketik code
+4.kalo mau isi nama dan dll silahkan ketik code
   nano .bashrc di $HOME ok
   
 5.Selamat mencoba 😁
